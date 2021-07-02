@@ -8,6 +8,7 @@ I'm interested in **Computer Vision** and **XAI**🤍
 ◽ Object Detection
 <br>◽ Instance Segmentation
 <br>◽ Video Tracking
+<br>◽ Face Recognition
 <br>◽ 3D Reconstruction
 <br>◽ GAN
 <br>◽ Pixel Attribution
