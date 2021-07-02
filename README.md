@@ -1,4 +1,4 @@
-<img src="dino_final.gif"><br>
+<img src="dino_final2.gif"><br>
 ### Hi there, I'm SuA Lee 👋
 I'm interested in **Computer Vision** and **XAI**🤍
 <br>◽ I want to develop lots of beautiful things using techniques from **various fields of Computer Vision.**
