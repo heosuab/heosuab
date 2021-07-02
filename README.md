@@ -2,7 +2,7 @@
 ### Hi there, I'm SuA Lee 👋
 I'm interested in **Computer Vision** and **XAI**🤍
 <br>◽ I want to develop lots of beautiful things using techniques from **various fields of Computer Vision.**
-<br>◽ And i also hope to **visualize ** all deep neural networks what i want to **interpret**. (Just wishful thinking😅)
+<br>◽ And i also hope to **visualize and analyze** all deep neural networks what i want to **interpret**. (Just wishful thinking😅)
 <br>
 ### Techniques I've tried in projects and researches
 ◽ Object Detection
