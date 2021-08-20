@@ -7,6 +7,7 @@ I'm interested in **Computer Vision** and **XAI**🤍
 ### Techniques I've tried in projects and researches
 ◽ Object Detection
 <br>◽ Instance Segmentation
+<br>◽ Semantic Segmentation
 <br>◽ Video Tracking
 <br>◽ MOT
 <br>◽ Face Recognition
