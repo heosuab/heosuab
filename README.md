@@ -3,22 +3,6 @@
 I'm interested in **Computer Vision** and **XAI**🤍
 <br>◽ I want to develop lots of beautiful things using techniques from **various fields of Computer Vision.**
 <br>◽ And i also hope to **visualize and analyze** all deep neural networks that i want to **interpret**. (Just wishful thinking😅)
-<br>
-### Techniques I've tried in projects and researches
-◽ Object Detection
-<br>◽ Instance Segmentation
-<br>◽ Semantic Segmentation
-<br>◽ Transformer
-<br>◽ Video Tracking
-<br>◽ MOT
-<br>◽ Face Recognition
-<br>◽ 3D Reconstruction
-<br>◽ GAN
-<br>◽ Pixel Attribution
-<br>◽ Image Augmentations
-<br>◽ XAI
-<br>◽ Part of NLP, RL
-
 
 <!--
 **heosuab/heosuab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
