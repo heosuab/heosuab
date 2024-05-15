@@ -1,10 +1,10 @@
 <img src="dino_final.gif"><br>
 ### Hi there, I'm SuA Lee 👋
+<!--
 I'm interested in **Computer Vision** and **XAI**🤍
 <br>◽ I want to develop lots of beautiful things using techniques from **various fields of Computer Vision.**
 <br>◽ And i also hope to **visualize and analyze** all deep neural networks that i want to **interpret**. (Just wishful thinking😅)
 
-<!--
 **heosuab/heosuab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
